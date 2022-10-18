@@ -201,7 +201,7 @@ a{
     justify-content: center;
     width: 500px;
     height: 473px;    
-    background-image: url(./rhombus1.png);
+    background-image: url(./img/rhombus1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -216,6 +216,7 @@ a{
     font-size: 36px;
     line-height: 44px;
     letter-spacing: 0.02em;
+
 
 }
 
